@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <h4 align="center"><strong>[Under Development; Close Source]</strong></h4> 
+    <h4 align="center"><strong>[Close Source]</strong></h4> 
     A full-stack e-commerce platform for bespoke home goods, showcasing a modern frontend and a powerful, secure backend API.
 </p>
 
